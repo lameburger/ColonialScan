@@ -11,6 +11,7 @@
 - Massachusetts
 - Pennsylvania
 - Georgia
-
-Waiting to be extracted:
-Maryland
+- Maryland
+---
+#### What's next
+The following categorizations should be made: orginal text -> trunication of unuseful information -> seperation by law/section -> removal of non-economic related laws -> analylsis.
